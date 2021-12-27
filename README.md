@@ -8,7 +8,10 @@
 - For the last half of this year, I've fortunately had access to my computer occasionally while serving in the military. I took this wonderful opportunity to revise and strengthen my knowledge in web development so that I could to some extent get caught up with what's going on out there. I picked up JavaScript as well as familiarized myself with ReactJS which I lacked in my first full-time job leading to my limited understanding on what a frontend developer does. The other two problems that I went deeper into were system scaling and performance optimization techniques. Such knowledge of mine is just on paper therefore I'm now eager to turn it into practice.
 
 ### Mindset
-- In the early stage of my career, I would like to get involved as much as possible, play several roles in the process of a product development so that I can have a broad and overall picture on how a software development lifecycle works. This way makes me grow fast and I can contribute greater value back to my organization. Willing to take on challenges. Everyone always has a lesson for me learn.
+- In the early stage of my career, I would like to get involved as much as possible, play several roles in the process of a product development so that I can have a broad and overall picture on how a software development lifecycle works. This way makes me grow fast and I can contribute greater value back to my organization.
+- Willing to take on challenges. 
+- Everyone always has a lesson for me learn.
+- Asking smart questions to improve product on daily basis.
 
 
 <!---
