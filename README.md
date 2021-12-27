@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Hoàng Quốc Hưng
-- 🌱 Besides strong desires in learning up-to-date technologies like Django or React, as a Web developer, I keen on learning how to make a reliable and maintainable software system with high scalability. Such these factors make a good application rather than those technologies.
+- 🌱 Besides strong desires in learning up-to-date technologies like Django or React, as a Web developer, I keen on learning how to make a reliable and maintainable software system with high scalability. I'm convinced that such these factors make a good application rather than those technologies.
 
 ### Work Experience Summary
 
