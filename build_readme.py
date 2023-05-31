@@ -2,7 +2,14 @@ import feedparser
 from pathlib import Path
 
 def main():
+    bio = [
+        "✌🏻 Hi, I'm Hung Hoang and welcome you to my Github space.",
+        "I'm Web developer working with Python/Django.",
+        "🇻🇳 I'm living in Hochiminh city, Vietnam.",
+        "🚴🏻 In my spare time, I rides with my single-speed bike.",
+    ]
     chunks = []
+    chunks.extend(bio)
     chunks.extend(get_latest_posts())
 
     readme = Path(__file__).parent / "README.md"
