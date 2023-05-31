@@ -3,10 +3,10 @@ from pathlib import Path
 
 def main():
     bio = [
-        "✌🏻 Hi, I'm Hung Hoang and welcome you to my Github space.",
-        "I'm Web developer working with Python/Django.",
-        "🇻🇳 I'm living in Hochiminh city, Vietnam.",
-        "🚴🏻 In my spare time, I rides with my single-speed bike.",
+        "✌🏻 Hi, I'm Hung Hoang and welcome you to my Github space.\n",
+        "💻 I'm Web developer working with Python/Django.\n",
+        "🇻🇳 I'm living in Hochiminh city, Vietnam.\n",
+        "🚴🏻 In my spare time, I rides with my single-speed bike.\n",
     ]
     chunks = []
     chunks.extend(bio)
