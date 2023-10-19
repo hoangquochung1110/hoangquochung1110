@@ -17,7 +17,7 @@ def main():
 
 def get_latest_posts():
     chunks = ["## Latest blog posts\n"]
-    posts = feedparser.parse("https://www.hung.codes/feed.xml")["entries"][:5]
+    posts = feedparser.parse("https://hoangquochung1110.github.io/static-site-generator/feed.xml")["entries"][:5]
     chunks.extend(
         [
             f'* [{post["title"]}]({post["link"]})'
