@@ -7,3 +7,9 @@
 🚴🏻 In my spare time, I rides with my single-speed bike.
 
 ## Latest blog posts
+
+* [Python tip: don't split on space or newlines](https://www.hung.codes/python-tips-str-split)
+* [Run additional script when Postgres container starts](https://www.hung.codes/postgres-init-script)
+* [Understanding Dirty Read and Non-Repeatable Phenomena in Postgres: A Visual Demo](https://www.hung.codes/isolation-level-postgres-p1)
+* [Pytest introduction in 5 minutes](https://www.hung.codes/pytest-intro)
+* [Application of Regex in my message templating webapp](https://www.hung.codes/message-templating)
