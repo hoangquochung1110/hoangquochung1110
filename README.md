@@ -8,8 +8,8 @@
 
 ## Latest blog posts
 
-* [Python tip: don't split on space or newlines](https://www.hung.codes/python-tips-str-split)
-* [Run additional script when Postgres container starts](https://www.hung.codes/postgres-init-script)
-* [Understanding Dirty Read and Non-Repeatable Phenomena in Postgres: A Visual Demo](https://www.hung.codes/isolation-level-postgres-p1)
-* [Pytest introduction in 5 minutes](https://www.hung.codes/pytest-intro)
-* [Application of Regex in my message templating webapp](https://www.hung.codes/message-templating)
+* [Python tip: don't split on space or newlines](https://hoangquochung1110.github.io/static-site-generator/python-tips-str-split)
+* [Run additional script when Postgres container starts](https://hoangquochung1110.github.io/static-site-generator/postgres-init-script)
+* [Understanding Dirty Read and Non-Repeatable Phenomena in Postgres: A Visual Demo](https://hoangquochung1110.github.io/static-site-generator/isolation-level-postgres-p1)
+* [Pytest introduction in 5 minutes](https://hoangquochung1110.github.io/static-site-generator/pytest-intro)
+* [Application of Regex in my message templating webapp](https://hoangquochung1110.github.io/static-site-generator/message-templating)
